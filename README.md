@@ -4,6 +4,7 @@
 **Assignment:** Lazor Group Project  
 **Due Date:** November 4, 2025  
 **Institution:** Johns Hopkins University, ChemBE
+
 **Group number** Yuan Ma, Junjia Zeng, Jiaming Wen
 
 # Lazor Puzzle Solver
