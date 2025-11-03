@@ -10,7 +10,7 @@
 
 A Python solver for the Lazor mobile game that automatically finds solutions by placing reflective, opaque, and refractive blocks to guide lasers to target points.
 
-## 🎯 What This Does
+## What This Does
 
 This program solves Lazor puzzles by:
 - Reading puzzle configurations from `.bff` files
