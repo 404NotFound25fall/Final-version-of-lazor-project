@@ -1,0 +1,4 @@
+ooCo
+oooA
+Aooo
+oooo

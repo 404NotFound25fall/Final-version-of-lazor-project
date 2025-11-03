@@ -1,0 +1,14 @@
+# 测试分束方块（C）
+# 激光撞到C后分束（穿透+反射）
+GRID START
+o C
+o o
+GRID STOP
+
+A 0
+B 0
+C 0
+
+L 0 0 1 0
+P 0 0
+

@@ -1,0 +1,14 @@
+# 测试遮挡方块（B）
+# 激光撞到B后被吸收
+GRID START
+o B
+o o
+GRID STOP
+
+A 0
+B 0
+C 0
+
+L 0 0 1 0
+P 0 0
+
